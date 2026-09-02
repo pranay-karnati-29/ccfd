@@ -1,0 +1,9 @@
+.git
+.github
+Screenshots
+*.md
+_pycache_
+__pycache__
+*.pyc
+.gitattributes
+LICENSE
